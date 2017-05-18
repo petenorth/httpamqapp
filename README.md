@@ -16,6 +16,8 @@ Various quickstart projects for getting you started with JBoss Fuse
 * [custom](custom) - shows how to build a custom assembly starting from the JBoss Fuse full kit
 * [switchyard](switchyard) - contains various quickstart projects using Switchyard.
 
+Edited by Peter Fry
+
 
 
 
